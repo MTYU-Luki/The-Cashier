@@ -51,4 +51,6 @@ public void addItem(Item item)
         }
 ```
 
+kemudian jika pada quintity diinputkan berupa huruf akan terjadi force close pada mainwindownya
+
 >jika ada kesalah kata , atau penjelasan mohon dimaafkan sekian dan terimakasih
